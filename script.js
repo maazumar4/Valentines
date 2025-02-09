@@ -1,10 +1,10 @@
 function getSupport() {
   const messages = [
-    "You're doing great, Miki!",
-    "Miki, you're amazing just the way you are!",
-    "Remember, Miki, you're loved and appreciated!",
-    "You've got this, Miki! Keep going!",
-    "You bring joy to those around you, Miki!"
+    "You're doing great, Eisha!",
+    "Eisha, you're amazing just the way you are!",
+    "Remember, Eisha, you're loved and appreciated!",
+    "You've got this, Eisha! Keep going!",
+    "You bring joy to those around you, Eisha!"
   ];
 
   const travelQuotes = [
